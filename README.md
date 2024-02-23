@@ -25,6 +25,7 @@ List the employee number, last name, first name, sex, and salary of each employe
 
 
 List the first name, last name, and hire date for the employees who were hired in 1986.
+
 ![image](https://github.com/mafeestaba/sql-challenge/assets/152315257/8b9610c7-c57e-4d25-b99f-9266a7d75568)
 
 
